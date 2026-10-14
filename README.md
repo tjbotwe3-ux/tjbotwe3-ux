@@ -115,6 +115,8 @@ they're completed.
 - Participate in cybersecurity competitions and collaborative projects.
 - Connect with cybersecurity professionals and industry mentors.
 - Secure a cybersecurity or IT security internship.
+- Earn the CompTIA Security+ certification.
+
 
 ---
 
